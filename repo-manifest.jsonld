@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyca/pynacl/commit/d869c687681685c759f11142ec789b89fc62b56e",
       "git:hexsha": "d869c687681685c759f11142ec789b89fc62b56e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyca/pynacl/commit/a811247b9a721c19f6da736050ed88a56ef9d324",
