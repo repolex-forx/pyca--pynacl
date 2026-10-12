@@ -1,0 +1,11 @@
+{
+  "org": "pyca",
+  "repo": "pynacl",
+  "versions": [
+    {
+      "commit": "d869c687681685c759f11142ec789b89fc62b56e",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:53:53.758578+00:00"
+    }
+  ]
+}
